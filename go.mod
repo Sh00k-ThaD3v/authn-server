@@ -3,7 +3,6 @@ module github.com/keratin/authn-server
 require (
 	cloud.google.com/go v0.0.0-20180417120045-d19004dbbee5 // indirect
 	github.com/airbrake/gobrake v3.5.0+incompatible
-	github.com/benbjohnson/ego v0.4.3 // indirect
 	github.com/beorn7/perks v0.0.0-20160804104726-4c0e84591b9a // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dlclark/regexp2 v1.1.6 // indirect
@@ -30,7 +29,7 @@ require (
 	github.com/stretchr/testify v1.4.0
 	github.com/test-go/testify v1.1.4
 	github.com/trustelem/zxcvbn v1.0.1
-	golang.org/x/crypto v0.0.0-20190701094942-4def268fd1a4
+	golang.org/x/crypto v0.1.0
 	golang.org/x/oauth2 v0.0.0-20180416194528-6881fee410a5
 	google.golang.org/appengine v0.0.0-20180405220334-0a24098c0ec6 // indirect
 	gopkg.in/airbrake/gobrake.v2 v2.0.9 // indirect
